@@ -1,7 +1,7 @@
 # AudioParticlesVRBuilds
 Occasional builds of stuff in development
 
-Instructions for current build:
+**Instructions for AudioParticlesVR-alpha-v1.0.2:
 
 Unzip and run to get going.
 
@@ -24,3 +24,10 @@ Left/Right trigger starts drawing. Right grip clears.
 
 Effect #4:
 Left/Right trigger emits particles. Swipe up on touchpad does mass repel.  Clicking down touchpad turns on black hole. Use grips on both controllers and move closer/further apart to scale. Moving left controller through particles coalesces. Moving right controller through particles repels. This is the effect currently being worked on.
+
+**Instructions for AudioParticlesVR-alpha-v1.0.3:
+
+Effect #1:
+
+Trigger activates repel on each controller. It's pressure sensitive, so the harder you press, the bigger the repel.
+Touchpad up button turns off the attractors on each hand. Particles will come to rest if you hold it down.
