@@ -31,3 +31,13 @@ Effect #1:
 
 Trigger activates repel on each controller. It's pressure sensitive, so the harder you press, the bigger the repel.
 Touchpad up button turns off the attractors on each hand. Particles will come to rest if you hold it down.
+
+**Instructions for AudioParticlesVR-alpha-v1.0.4:
+
+This should be the last set of instructions I have to write. Ignore what's on the current title screen.
+
+Swipe Right - next effect
+Swipe Left - previous effect
+Tap controller bottoms together (like Tilt Brush) to enable / disable tooltips. It gives all of the controls for each effect.
+
+Enjoy!
